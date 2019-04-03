@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+/* Project Name: ExpressPortfolio
+   File Name: app.css
+   Name: Tejinder Kaur
+   Student id: 300976308
+   Date: February 16, 2019 */
+
+/* custom css*/
+
+body {
+  background-image: url("./assets/images/back.jpg");
+}
+
+h1 {
+  color: rgb(48, 7, 71);
+  text-transform: uppercase;
+
+}
