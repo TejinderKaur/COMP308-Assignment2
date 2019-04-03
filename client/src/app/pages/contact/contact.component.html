@@ -15,6 +15,18 @@
             <b> Name:</b>Tejinder Kaur <br>
             <b> Email Id:</b>tkaur64@my.centennialcollege.ca <br>
             <b> PhNo.:</b>(647)-825-0946</p>
+            <div *ngIf="isLoggedIn()" class="container">
+              <div class="row">
+                <div class="col col-md-6">
+                  <div class="card">
+                    <h5 class="card-header alert-success">Secure</h5>
+                    <div class="card-body">
+                      <a routerLink="contact-list" class="btn btn-primary"><i class="fas fa-users fa-lg"></i> Contact List</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
             </div>
           </div><br>
           <div class="panel panel-primary" style="border: 2px solid black">
