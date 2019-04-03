@@ -3,11 +3,11 @@ import { BasePageComponent } from 'src/app/partials/base-page/base-page.componen
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
-  selector: 'app-products',
-  templateUrl: './products.component.html',
-  styleUrls: ['./products.component.css']
+  selector: 'app-projects',
+  templateUrl: './projects.component.html',
+  styleUrls: ['./projects.component.css']
 })
-export class ProductsComponent extends BasePageComponent implements OnInit {
+export class ProjectsComponent extends BasePageComponent implements OnInit {
 
   constructor(route: ActivatedRoute) {
     super(route);

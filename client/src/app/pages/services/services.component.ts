@@ -11,7 +11,7 @@ export class ServicesComponent extends BasePageComponent implements OnInit {
 
   constructor(route: ActivatedRoute) {
     super(route);
-  }
+   }
 
   ngOnInit() {
   }

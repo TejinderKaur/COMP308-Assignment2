@@ -8,9 +8,8 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./about.component.css']
 })
 export class AboutComponent extends BasePageComponent implements OnInit {
-
   constructor(route: ActivatedRoute) {
-    super(route)
+    super(route);
   }
 
   ngOnInit() {
