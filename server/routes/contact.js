@@ -1,3 +1,8 @@
+/* Project Name: COMP308Assignment2
+   File Name: contact.js
+   Name: Tejinder Kaur
+   Student id: 300976308
+   Date: April 3, 2019 */
 let express = require('express');
 let router = express.Router();
 

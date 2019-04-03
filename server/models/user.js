@@ -1,3 +1,8 @@
+/* Project Name: COMP308Assignment2
+   File Name: user.js
+   Name: Tejinder Kaur
+   Student id: 300976308
+   Date: April 3, 2019 */
 // require modules for our User Model
 let mongoose = require("mongoose");
 let passportLocalMongoose = require("passport-local-mongoose");

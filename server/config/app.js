@@ -1,3 +1,9 @@
+/* Project Name: COMP308Assignment2
+   File Name: app.js
+   Name: Tejinder Kaur
+   Student id: 300976308
+   Date: April 3, 2019 */
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
